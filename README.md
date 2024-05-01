@@ -11,3 +11,7 @@ I use VSCode for developing Flutter apps.
 I add only some folder and file that need to be changed.
 You can copy and then paste it into your project directory.
 So thats it! Have a nice day :)
+
+IMPORTANT
+You should just change on your pubspec.yaml file one thing for this project. 
+You should add "assets: - img" code for use your images.
